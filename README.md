@@ -67,7 +67,7 @@ Below the dashboard title, the **main KPIs are displayed as cards**. See the upl
 | Total Quantity Sold | Total items sold | TOTAL QUANTITY SOLD = SUM(global_ecommerce_sales[Quantity]) |
 | Average Discount | Average discount given | AVERAGE DISCOUNT = AVERAGE(global_ecommerce_sales[Discount (%)]) |
 
-![Dashboard.png](attachment:e6b901f9-76b0-40c4-8c36-36d1ac46fa4b:Dashboard.png)
+![Dashboard.png](Ecommerce-Dashboard/Dashboard.png)
 
 ---
 
@@ -75,7 +75,7 @@ Below the dashboard title, the **main KPIs are displayed as cards**. See the upl
 
 The dashboard includes interactive charts to explore sales performance and customer behavior. Each chart answers a specific business question:
 
-![Dashboard.png](attachment:68595f58-f6b6-4df8-b98c-88bb59fa73ad:Dashboard.png)
+![Dashboard.png](Ecommerce-Dashboard/Dashboard.png)
 
 | Chart | Purpose | Fields Used | Notes |
 | --- | --- | --- | --- |
@@ -101,13 +101,13 @@ All slicers are interactive, allowing dynamic exploration of the dashboard.
 
 So you can filter as per your requirements as shown below.
 
-![slicers.png](attachment:a7606f18-5ff6-4228-b402-d808cec2a37e:slicers.png)
+![slicers.png](Ecommerce-Dashboard/slicers.png)
 
-![filter_by_date.png](attachment:2e187279-6ed6-40f4-a575-3ff8e99e3fe5:filter_by_date.png)
+![filter_by_date.png](Ecommerce-Dashboard/filter_by_date.png)
 
-![filter_by_category.png](attachment:d60c2163-28ee-47f6-b4fa-31cdc3a7400e:filter_by_category.png)
+![filter_by_category.png](Ecommerce-Dashboard/filter_by_category.png)
 
-![filter_by_others.png](attachment:c24446d4-ed29-4e8a-b99b-ae434806f2b7:filter_by_others.png)
+![filter_by_others.png](Ecommerce-Dashboard/filter_by_others.png)
 
 ---
 
@@ -115,7 +115,7 @@ So you can filter as per your requirements as shown below.
 
 This Power BI dashboard visualizes E-Commerce sales and customer behavior. It includes KPI cards, interactive charts, and slicers to track performance, monitor trends, and explore the dataset dynamically. Users can quickly identify top products, high-performing regions, revenue trends, discount impacts, and payment method preferences.
 
-![Dashboard.png](attachment:35b1e2d8-217e-40be-8678-c3035b50393c:Dashboard.png)
+![Dashboard.png](Ecommerce-Dashboard/Dashboard.png)
 
 ---
 
