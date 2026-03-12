@@ -67,7 +67,7 @@ Below the dashboard title, the **main KPIs are displayed as cards**. See the upl
 | Total Quantity Sold | Total items sold | TOTAL QUANTITY SOLD = SUM(global_ecommerce_sales[Quantity]) |
 | Average Discount | Average discount given | AVERAGE DISCOUNT = AVERAGE(global_ecommerce_sales[Discount (%)]) |
 
-![Dashboard.png](Ecommerce-Dashboard/Dashboard.png)
+![Dashboard.png](Dashboard.png)
 
 ---
 
