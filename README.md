@@ -75,7 +75,7 @@ Below the dashboard title, the **main KPIs are displayed as cards**. See the upl
 
 The dashboard includes interactive charts to explore sales performance and customer behavior. Each chart answers a specific business question:
 
-![Dashboard.png](Ecommerce-Dashboard/Dashboard.png)
+![Dashboard.png](Dashboard.png)
 
 | Chart | Purpose | Fields Used | Notes |
 | --- | --- | --- | --- |
@@ -101,13 +101,13 @@ All slicers are interactive, allowing dynamic exploration of the dashboard.
 
 So you can filter as per your requirements as shown below.
 
-![slicers.png](Ecommerce-Dashboard/slicers.png)
+![slicers.png](slicers.png)
 
-![filter_by_date.png](Ecommerce-Dashboard/filter_by_date.png)
+![filter_by_date.png](filter_by_date.png)
 
-![filter_by_category.png](Ecommerce-Dashboard/filter_by_category.png)
+![filter_by_category.png](filter_by_category.png)
 
-![filter_by_others.png](Ecommerce-Dashboard/filter_by_others.png)
+![filter_by_others.png](filter_by_others.png)
 
 ---
 
@@ -115,7 +115,7 @@ So you can filter as per your requirements as shown below.
 
 This Power BI dashboard visualizes E-Commerce sales and customer behavior. It includes KPI cards, interactive charts, and slicers to track performance, monitor trends, and explore the dataset dynamically. Users can quickly identify top products, high-performing regions, revenue trends, discount impacts, and payment method preferences.
 
-![Dashboard.png](Ecommerce-Dashboard/Dashboard.png)
+![Dashboard.png](Dashboard.png)
 
 ---
 
